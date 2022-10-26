@@ -18,10 +18,10 @@
     <ClCompile Include="ex3++_2.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\..\source\repos\CPP2g2022\list4-3-comp\getObesity.cpp">
+    <ClCompile Include="getBmi.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\..\source\repos\CPP2g2022\list4-3-comp\GetBmi.cpp">
+    <ClCompile Include="getObesity.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
   </ItemGroup>

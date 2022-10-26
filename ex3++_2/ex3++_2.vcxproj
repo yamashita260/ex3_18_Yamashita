@@ -24,6 +24,7 @@
     <ProjectGuid>{3d72da21-430f-4a15-b3ea-c71b79f5198e}</ProjectGuid>
     <RootNamespace>ex32</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>ex3_18_Yamasita</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -139,9 +140,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\..\..\source\repos\CPP2g2022\list4-3-comp\GetBmi.cpp" />
-    <ClCompile Include="..\..\..\..\..\..\source\repos\CPP2g2022\list4-3-comp\getObesity.cpp" />
     <ClCompile Include="ex3++_2.cpp" />
+    <ClCompile Include="getBmi.cpp" />
+    <ClCompile Include="getObesity.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="getObesity.h" />
